@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Sugarfire Smokehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.189394,
+          38.630434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Carmine's Steakhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.188558,
+          38.624154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Courtesy Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287454,
+          38.628666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "Blues City Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.218313,
+          38.605044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant ": "PW Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.212835,
+          38.621108
+        ]
+      }
+    }
+  ]
+}
